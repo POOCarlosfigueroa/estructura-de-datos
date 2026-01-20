@@ -1,0 +1,14 @@
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\bin\Debug\net10.0\deber_2s.exe
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\bin\Debug\net10.0\deber_2s.deps.json
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\bin\Debug\net10.0\deber_2s.runtimeconfig.json
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\bin\Debug\net10.0\deber_2s.dll
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\bin\Debug\net10.0\deber_2s.pdb
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\obj\Debug\net10.0\deber_2s.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\obj\Debug\net10.0\deber_2s.AssemblyInfoInputs.cache
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\obj\Debug\net10.0\deber_2s.AssemblyInfo.cs
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\obj\Debug\net10.0\deber_2s.csproj.CoreCompileInputs.cache
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\obj\Debug\net10.0\deber_2s.dll
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\obj\Debug\net10.0\refint\deber_2s.dll
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\obj\Debug\net10.0\deber_2s.pdb
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\obj\Debug\net10.0\deber_2s.genruntimeconfig.cache
+C:\Users\cafa_\OneDrive\Documentos\SEMANA_2\deber_2s\obj\Debug\net10.0\ref\deber_2s.dll
